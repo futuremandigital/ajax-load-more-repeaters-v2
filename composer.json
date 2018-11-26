@@ -1,0 +1,13 @@
+{
+    "name": "futuremandigital/ajax-load-more-repeaters",
+    "description": "AJAX Load More Repeaters Add-on repo with composer.json for Bedrock.",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "require": {
+      "php": ">=5.3",
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "ajax-load-more-repeaters"
+    }
+  }
